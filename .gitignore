@@ -1,0 +1,7 @@
+.env
+build
+node_modules
+yarn-error.log
+.vscode/*
+!.vscode/launch.json
+.DS_Store
